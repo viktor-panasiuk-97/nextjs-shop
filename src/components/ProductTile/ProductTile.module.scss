@@ -1,0 +1,35 @@
+.container {
+  width: 1344px;
+  margin: 0 auto;
+}
+
+.img {
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+.info {
+  padding-right: 4.75rem;
+  margin-top: 1.25rem;
+  position: relative;
+}
+
+.title {
+  width: 100%;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #111;
+}
+
+.price {
+  width: 4.75rem;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.description {
+  font-size: 1rem;
+  color: #757575;
+}
